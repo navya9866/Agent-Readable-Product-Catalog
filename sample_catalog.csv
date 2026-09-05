@@ -1,0 +1,11 @@
+id,name,category,price,currency,description,image_url,stock
+SKU-LAPTOP-001,Dell XPS 13,Electronics,94999,INR,High-performance ultrabook with Intel i7 14700H - 16GB RAM - 512GB SSD - 13.4 inch FHD+ display,https://via.placeholder.com/300x300?text=Dell+XPS+13,25
+SKU-LAPTOP-002,MacBook Pro 14,Electronics,199900,INR,Apple M3 Pro chip - 18GB unified memory - 512GB SSD - 14-inch Liquid Retina XDR display,https://via.placeholder.com/300x300?text=MacBook+Pro,12
+SKU-PHONE-001,iPhone 15 Pro,Electronics,129900,INR,6.1-inch Super Retina XDR display - A17 Pro chip - 256GB storage - Titanium design,https://via.placeholder.com/300x300?text=iPhone+15+Pro,40
+SKU-MONITOR-001,LG 4K Monitor 27-inch,Electronics,35999,INR,27-inch 4K UHD (3840x2160) - 60Hz - USB-C connectivity - HDR10 support - Thunderbolt 3,https://via.placeholder.com/300x300?text=LG+Monitor,15
+SKU-HEADPHONES-001,Sony WH-1000XM5,Audio,29990,INR,Industry-leading noise cancellation - 30-hour battery life - Premium sound quality - Multipoint connection,https://via.placeholder.com/300x300?text=Sony+Headphones,50
+SKU-KEYBOARD-001,Mechanical Keyboard - RGB,Accessories,8999,INR,Mechanical switches with 80+ million keystrokes - Per-key RGB backlighting - USB-C connection - Compact design,https://via.placeholder.com/300x300?text=Mechanical+Keyboard,0
+SKU-MONITOR-002,Dell U2724D,Electronics,42999,INR,27-inch 2560x1440 resolution - USB-C hub - Height adjustable stand - Color accurate,https://via.placeholder.com/300x300?text=Dell+Monitor,8
+SKU-PHONE-002,Samsung Galaxy S24 Ultra,Electronics,139999,INR,6.8-inch AMOLED display - Snapdragon 8 Gen 3 - 512GB storage - AI-powered features,https://via.placeholder.com/300x300?text=Samsung+S24,22
+SKU-MOUSE-001,Logitech MX Master 3S,Accessories,9499,INR,Advanced wireless mouse - 8K DPI sensor - Customizable buttons - Multi-device pairing,https://via.placeholder.com/300x300?text=Logitech+Mouse,35
+SKU-STAND-001,Adjustable Monitor Stand,Accessories,3999,INR,Height-adjustable aluminum stand - Supports up to 32 inch monitors - Cable management,https://via.placeholder.com/300x300?text=Monitor+Stand,18
